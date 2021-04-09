@@ -14,7 +14,17 @@ public class test2 {
 	}
 
 		@Test
-		public void tc1() {
+		public void tc4() {
+			System.out.println("TC1");
+		}
+		
+		@Test
+		public void tc5() {
+			System.out.println("TC1");
+		}
+		
+		@Test
+		public void tc6() {
 			System.out.println("TC1");
 		}
 }
